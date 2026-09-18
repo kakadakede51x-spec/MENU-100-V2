@@ -1,0 +1,6 @@
+{
+  "name": "menu100",
+  "description": "แพลตฟอร์มแนะนำเมนูอาหาร โหวต Ranking อาหารระดับโลก แผนที่ค้นหาร้านอาหารทั่วไทย & SME สินค้า Merch และคอมมูนิตี้นักชิม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
